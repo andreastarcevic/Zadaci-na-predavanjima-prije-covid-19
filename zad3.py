@@ -1,0 +1,6 @@
+ime = input('ime: ')
+prezime = input('prezime: ')
+datum_rodjenja = input('datum_rodjenja: ')
+print('Bok! {1} {0}'.format(ime,prezime))
+print('Drago mi je da smo se upoznali!')
+print('I ja sam rodjen {}'.format(datum_rodjenja))
